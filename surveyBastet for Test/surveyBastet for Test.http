@@ -1,0 +1,6 @@
+@surveyBastet_for_Test_HostAddress = http://localhost:5220
+
+GET {{surveyBastet_for_Test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

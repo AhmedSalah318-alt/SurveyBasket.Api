@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/surveyBastet for Test/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+/surveyBastet for Test/obj/Debug/net9.0/rpswa.dswa.cache.json
+/surveyBastet for Test/obj/Debug/net9.0/staticwebassets.removed.txt
+/surveyBastet for Test/obj/Debug/net9.0/surveyBastet for Test.AssemblyInfo.cs
+/surveyBastet for Test/obj/Debug/net9.0/surveyBastet for Test.AssemblyInfoInputs.cache
+/surveyBastet for Test/obj/Debug/net9.0/surveyBastet for Test.assets.cache
+/surveyBastet for Test/obj/Debug/net9.0/surveyBastet for Test.csproj.AssemblyReference.cache
+/surveyBastet for Test/obj/Debug/net9.0/surveyBastet for Test.GeneratedMSBuildEditorConfig.editorconfig
+/surveyBastet for Test/obj/Debug/net9.0/surveyBastet for Test.GlobalUsings.g.cs
+/surveyBastet for Test/obj/project.assets.json
+/surveyBastet for Test/obj/project.nuget.cache
+/surveyBastet for Test/obj/surveyBastet for Test.csproj.nuget.dgspec.json
+/surveyBastet for Test/obj/surveyBastet for Test.csproj.nuget.g.props
+/surveyBastet for Test/obj/surveyBastet for Test.csproj.nuget.g.targets
+/.vs/ProjectEvaluation
+/.vs/surveyBastet for Test
