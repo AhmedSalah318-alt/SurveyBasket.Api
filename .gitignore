@@ -20,3 +20,9 @@
 /.vs/surveyBastet for Test
 /surveyBastet for Test/bin/Debug/net9.0
 /surveyBastet for Test/obj/Debug/net9.0
+/.gitattributes
+/.vs/SurveyBasket
+/SurveyBasket
+/SurveyBasket/bin/Debug/net9.0
+/SurveyBasket/obj
+/SurveyBasket/SurveyBasket.csproj.user
